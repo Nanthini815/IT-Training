@@ -1,8 +1,3 @@
-
-Kokila Sivakumar
-11:03 AM (4 minutes ago)
-to me
-
 def is_number_palindrome(num):
     original_num = num
     reversed_num = 0
